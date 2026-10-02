@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Kashish Gupta 👋
 
-<!--
-**kashish-gupta05/kashish-gupta05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Learning Python, C and Java  
+🐍 Python Programming  
+📚 Interested in Software Development  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- C Programming
+- Java (Basics)
+- Git & GitHub
+
+## 📂 Projects
+
+### 🐍 Python Programs
+My Python practice programs and basic problem-solving codes.
+
+👉 Check out my [Python Programs](https://github.com/kashish-gupta05/python-programs) repository.
+
+## 🎯 Currently Learning
+
+- Python Programming
+- C Programming
+- Java
+- Data Structures & Algorithms
+
+## 📫 Connect With Me
+
+GitHub: [@kashish-gupta05](https://github.com/kashish-gupta05)
